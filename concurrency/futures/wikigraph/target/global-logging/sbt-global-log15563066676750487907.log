@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(9a0d1e5b-ab36-473f-9881-9f003b7623c8), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/georgy/Desktop/study/vii-semester/concurrency-and-parallelism/concurrency/futures/wikigraph/target/scala-3.1.0/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /Users/georgy/Desktop/study/vii-semester/concurrency-and-parallelism/concurrency/futures/wikigraph/src/main/scala/wikigraph/WikiResult.scala:160:15 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m160 |[0m      Seq.empty[[35mB[0m][0m
+[0m[[0m[31merror[0m] [0m[0m    |      [31m^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |      Found:    Seq[B][0m
+[0m[[0m[31merror[0m] [0m[0m    |      Required: wikigraph.WikiResult[Seq[B]][0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed 11 сент. 2022 г., 19:27:56[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

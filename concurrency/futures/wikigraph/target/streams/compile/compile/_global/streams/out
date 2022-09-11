@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /Users/georgy/Desktop/study/vii-semester/concurrency-and-parallelism/concurrency/futures/wikigraph/src/main/scala/wikigraph/Wikigraph.scala:146:29 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m146 |[0m        WikiResult.successful((titleFrom, titleTo, distance))[0m
+[0m[[0m[31merror[0m] [0m[0m    |        [31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |        Found:    [1m[31mwikigraph[0m[1m[31m.[0m[1m[31mWikiResult[0m[1m[31m[[0m(String, String, Option[Int])[1m[31m][0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |        Required: (String, String, Option[Int])[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
