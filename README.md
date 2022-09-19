@@ -1,9 +1,9 @@
-# Concurrency and Parallelism
+# Concurrency and Asynchrony
 Mixed repository with 
 *Concurrent programming in Scala* book, 
 EPFL *CS206* open materials (both concurrency) 
-and EPFL Coursera *Parallel programming* course (paraprog). 
-Lectures are collected and stored by weeks (lectures).
+and Rock the JVM *ZIO course* (zio).
+Lectures are collected and stored (lectures).
 Assignments' tasks are collected and stored (labs)
 
 | Week | Topic                      | Content             | Assignment
