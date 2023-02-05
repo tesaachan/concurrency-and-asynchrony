@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 3 Scala sources to /Users/georgy/Desktop/study/vii-semester/concurrency-and-parallelism/concurrency/jvm-threads/jvm-concurrency/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.13' for Scala 2.13.8. Compiling...[0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 7.18s.[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/georgy/Desktop/study/vii-semester/concurrency-and-parallelism/concurrency/jvm-threads/jvm-concurrency/src/main/scala/jvm/threads.scala:56:8: Main is already defined as object Main[0m
+[0m[[0m[31merror[0m] [0m[0mobject Main extends App {[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 8 s, completed 30 дек. 2022 г., 20:51:36[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

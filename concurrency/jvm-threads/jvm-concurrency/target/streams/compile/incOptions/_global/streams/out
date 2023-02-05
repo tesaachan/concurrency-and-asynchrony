@@ -1,0 +1,38 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/georgy/Desktop/study/vii-semester/concurrency-and-parallelism/concurrency/jvm-threads/jvm-concurrency/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedGuardedBlocks$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedBadPool$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadsSleep.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadsCreation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedNesting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadsNondeterminism.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadsProtectedUid$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadsCreation$MyThread.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedNoDeadlock$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedPool$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadsCommunicate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadsCreation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedPool$Worker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedNesting$Account.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedDeadlock$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedNoDeadlock.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedNoDeadlock$Account.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedBadPool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadsSleep$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadsNondeterminism$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedNesting$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadsCommunicate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedPool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedPool$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedDeadlock.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadsProtectedUid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedGuardedBlocks.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SynchronizedBadPool$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/georgy/Desktop/study/vii-semester/concurrency-and-parallelism/concurrency/jvm-threads/jvm-concurrency/target/scala-2.13/classes.bak[0m
